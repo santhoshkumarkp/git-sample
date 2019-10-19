@@ -1,1 +1,2 @@
 hello friends
+changes in master
